@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tugas Biodata Avrey</string>
+    <string name="action_settings">Settings</string>
+    <string name="biodata">BIODATA SISWA</string>
+    <string name="nama">Nama: </string>
+    <string name="alamat">Alamat: </string>
+    <string name="kota">Kota/Kab: </string>
+    <string name="agama">Agama: </string>
+    <string name="hobi">Hobi: </string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+
+</resources>
